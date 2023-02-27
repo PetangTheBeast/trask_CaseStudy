@@ -1,0 +1,44 @@
+{
+    "candidate": {
+        "name": "John",
+				"surname": "Doe",
+        "email": "john.doe@example.com"
+    },
+    "technologies": [
+        {
+            "technology_id": 1,
+            "level": 9,
+            "note": "Very experienced"
+        },
+        {
+            "technology_id": 3,
+            "level": 3,
+            "note": "Knows the basics"
+        }
+    ]
+}
+
+{
+    "candidate": {
+        "name": "Jan",
+				"surname": "Janek",
+        "email": "jan.janek@example.com"
+    },
+    "technologies": [
+        {
+            "technology_id": 4,
+            "level": 10,
+            "note": "10 years of experience"
+        },
+        {
+            "technology_id": 6,
+            "level": 4,
+            "note": "Knows the basics"
+        },
+        {
+            "technology_id": 5,
+            "level": 9,
+            "note": "Very experienced"
+        }
+    ]
+}

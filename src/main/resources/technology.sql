@@ -1,0 +1,16 @@
+INSERT INTO technology (name) VALUES
+  ('Java'),
+  ('Kotlin'),
+  ('Python'),
+  ('C#'),
+  ('.Net'),
+  ('C++'),
+  ('JavaScript'),
+  ('TypeScript'),
+  ('HTML5'),
+  ('CSS'),
+  ('PHP'),
+  ('Angular'),
+  ('React'),
+  ('Spring boot'),
+  ('Fastapi');
